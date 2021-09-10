@@ -1,0 +1,15 @@
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.exe
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.deps.json
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.json
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.runtimeconfig.dev.json
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.dll
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\bin\Debug\netcoreapp3.1\DDA.pdb
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csprojAssemblyReference.cache
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.Form1.resources
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.GenerateResource.cache
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfoInputs.cache
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.AssemblyInfo.cs
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.csproj.CoreCompileInputs.cache
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.dll
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.pdb
+D:\mySubjects\second term\graphics\DDA\DDA\DDA\obj\Debug\netcoreapp3.1\DDA.genruntimeconfig.cache
